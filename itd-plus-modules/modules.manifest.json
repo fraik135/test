@@ -1,0 +1,17 @@
+{
+  "critical": ["VerifiedModule.js", "PrivacyModule.js", "BlacklistModule.js"],
+  "other": [
+    "BannerModule.js",
+    "MentionsModule.js",
+    "SettingsTabMain.js",
+    "SettingsTabVisual.js",
+    "SettingsTabBlacklist.js",
+    "SettingsTabUpdates.js"
+  ],
+  "lazyTabs": [
+    "SettingsTabMain.js",
+    "SettingsTabVisual.js",
+    "SettingsTabBlacklist.js",
+    "SettingsTabUpdates.js"
+  ]
+}
